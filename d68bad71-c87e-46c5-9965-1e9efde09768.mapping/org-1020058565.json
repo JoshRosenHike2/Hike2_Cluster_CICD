@@ -1,0 +1,13 @@
+[ {
+  "originalGuid" : "2c469a17-d2cc-4988-b8a1-60ce6862d169",
+  "mappedGuid" : "15d2d3f4-ce0d-4fd2-a7bc-11510d69c4d9",
+  "counter" : 0,
+  "additionalMapping" : {
+    "3faa31ba-35b3-48a4-99fc-99d2d4cb916c" : "e43db2bb-63b6-4df0-a620-e40b7de540f9"
+  }
+}, {
+  "originalGuid" : "15d2d3f4-ce0d-4fd2-a7bc-11510d69c4d9",
+  "mappedGuid" : "15d2d3f4-ce0d-4fd2-a7bc-11510d69c4d9",
+  "counter" : 0,
+  "additionalMapping" : { }
+} ]
